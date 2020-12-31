@@ -11,14 +11,14 @@ export const headData = {
 export const heroData = {
   title: '',
   name: 'Efaste Mushundusi',
-  subtitle: 'I am student at Northern Illinois University College of Business majoring in Operation Management and Information System an emphasis in Data analytics',
+  subtitle: 'I am an Operation management and Information system Student ',
   cta: '',
 };
 
 // ABOUT DATA
 export const aboutData = {
   img: ' ',
-  paragraphOne: 'My name is Efaste Mushundusi I am a student from Northern Illinois University College of Business majoring in operation management and information system.',
+  paragraphOne: 'My name is Efaste Mushundusi I am a student from Northern Illinois University College of Business majoring in operation management and information system an emphasis in data analytics.',
   paragraphTwo: 'The biggest value I bring to your company is my communication and leadership skills and my academic experience and skills. ',
   paragraphThree: 'The one thing that sets me apart from other potential employees is my thirst for learning new technology and skills that will benefit the company and the stakeholders.',
   resume: 'https://my.indeed.com/p/efastem-79uc46x', // if no resume, the button will not show up
